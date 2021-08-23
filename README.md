@@ -31,3 +31,12 @@ git add .
 
 git commit -m "first commit"
 
+onliner updates for readme
+git add . && git commit -m "modified readme file"
+
+git remote add origin https://github.com/meghashree0396/Simple-dvc-mlflow-demo.git
+
+git branch -M main
+
+git push origin main
+
