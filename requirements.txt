@@ -8,3 +8,10 @@ sklearn
 pandas
 pytest
 tox
+numpy
+jupyterlab
+flake8
+mlflow
+flask
+gunicorn
+

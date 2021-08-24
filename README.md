@@ -84,3 +84,10 @@ build your own package commands -
 '''bash
 python setup.py sdist bdist wheel
 '''
+
+'''mlflow server command -
+
+mlflow server
+--backend-store-uri sqlite:///mlflow.db
+--default-artifact-root ./artifacts
+--host 0.0.0.0 -p 5000
